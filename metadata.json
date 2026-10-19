@@ -1,0 +1,6 @@
+{
+  "name": "8oz Coffee",
+  "description": "Specialty café design showcase & digital experience for 8oz Coffee in Neelam Commercial, DC Colony, Gujranwala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
